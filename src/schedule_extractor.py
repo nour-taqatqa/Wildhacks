@@ -50,6 +50,8 @@ def fetch_classes(url):
             
     return class_schedule
 
+print(fetch_classes("https://www.paper.nu/?t=4910&s=004963-1%2C023340-28%2C008660-28"))
+
 
     
 
