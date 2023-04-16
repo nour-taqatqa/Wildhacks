@@ -1,0 +1,9 @@
+<label>Where do you live:</label><br>
+<input type="radio" id="North Campus" name="Home" value="North Campus">
+<label for="North Campus">North Campus</label><br>
+<input type="radio" id="South Campus" name="Home" value="South Campus">
+<label for="South Campus">South Campus</label><br>
+<input type="radio" id="Off Campus" name="Off Campus" value="Off Campus">
+<label for="Off Campus">Off Campus</label><br>
+
+  
